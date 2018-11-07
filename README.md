@@ -1,0 +1,2 @@
+# ExternalizationDemo
+Externalization example
